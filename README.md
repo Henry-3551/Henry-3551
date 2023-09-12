@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Henry
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning web development and designing
-- 💞️ I’m looking to collaborate on software development
+- 👋 Hi, I’m devHenry
+- 👀 I’m interested in learning software development, ethical hacking and search engine optimization.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on software development and ethical hacking.
 - 📫 How to reach me ; email- edmundchukwuemerie22@gmail.com
-                       whatsApp- +2348072378767
+                       whatsApp- +2347059968139
                         
 
 <!---
