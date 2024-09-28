@@ -1,9 +1,9 @@
-- 👋 Hi, I’m devHenry
+- 👋 Hi there, I'm Henritek
 - 👀 I’m interested in learning software development, ethical hacking and search engine optimization.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on software development and ethical hacking.
+- 🌱 I’m currently learning & practicing web development.
+- 💞️ I’m looking forward to collaborate on software development and ethical hacking.
 - 📫 How to reach me ; email- edmundchukwuemerie22@gmail.com
-                       whatsApp- +2347059968139
+                       whatsApp- +2348072378767
                         
 
 <!---
