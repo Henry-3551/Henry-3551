@@ -1,9 +1,6 @@
 - 👋 Hi there, I'm Henrify💡
-- 
 - 🌱 I’m currently learning and working on software development, search engine optimization & A.I development .
-- 
 - 💞️ I’m looking forward to collaborate on software development and A.I development.
-- 
 - 📫 How to reach me ; email- edmundchukwuemerie22@gmail.com
                        whatsApp- +2348072378767
                         
