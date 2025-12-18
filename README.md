@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm Henrify💡
 - 🌱 I’m currently learning and working on Software engineering, Cyber security, SEO & A.I development .
 - 🏆 I’m looking forward to collaborate on Software engineering, Cyber security and A.I development.
-- 📫 How to reach me ; email- edmundchukwuemerie22@gmail.com
+- 📫 How to reach me ; email- anihenry3551@gmail.com
                         
 
 <!---
