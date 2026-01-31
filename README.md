@@ -1,17 +1,17 @@
 ## 👋 Hi, I’m Henrify
 
-I’m a **Software Engineer** with active interests in **Cybersecurity, Artificial Intelligence, and SEO-driven systems**.  
+I’m a **Full Stack Developer** with active interests in **Artificial Intelligence, Cybersecurity, and SEO-driven systems**.  
 I enjoy building scalable solutions, securing digital infrastructures, and exploring intelligent technologies.
 
 ### 🚀 What I’m Working On
-- Software Engineering (backend & system-focused development)
+- Software Development (backend & system-focused development)
 - Cybersecurity fundamentals and practical defense techniques
 - Artificial Intelligence & automation
 - Technical SEO and performance optimization
 
 ### 🤝 Collaboration
 I’m open to collaborating on:
-- Software engineering projects
+- Software development projects
 - Cybersecurity tools or research
 - AI-driven applications and systems
 
