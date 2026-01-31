@@ -1,7 +1,22 @@
-- 👋 Hi there, I'm Henrify💡
-- 🌱 I’m currently learning and working on Software engineering, Cyber security, SEO & A.I development .
-- 🏆 I’m looking forward to collaborate on Software engineering, Cyber security and A.I development.
-- 📫 How to reach me ; email- hello@henrify.dev
+## 👋 Hi, I’m Henrify
+
+I’m a **Software Engineer** with active interests in **Cybersecurity, Artificial Intelligence, and SEO-driven systems**.  
+I enjoy building scalable solutions, securing digital infrastructures, and exploring intelligent technologies.
+
+### 🚀 What I’m Working On
+- Software Engineering (backend & system-focused development)
+- Cybersecurity fundamentals and practical defense techniques
+- Artificial Intelligence & automation
+- Technical SEO and performance optimization
+
+### 🤝 Collaboration
+I’m open to collaborating on:
+- Software engineering projects
+- Cybersecurity tools or research
+- AI-driven applications and systems
+
+### 📫 Contact
+- **Email:** hello@henrify.dev
                         
 
 <!---
