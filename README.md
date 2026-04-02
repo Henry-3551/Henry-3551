@@ -16,7 +16,7 @@ I’m open to collaborating on:
 - AI-driven applications and systems
 
 ### 📫 Contact
-- **Email:** hello@henrify.dev
+- **Email:** henrifydev@gmail.com
                         
 
 <!---
