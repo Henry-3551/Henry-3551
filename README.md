@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-analytics-incog.vercel.app/api?username=Henry-3551&theme=github_dark" alt="GitHub Analytics" />
+</div>
+
 ## 👋 Hi, I’m Henrify
 
 I’m a **Full Stack Developer** with active interests in **Artificial Intelligence, Cybersecurity, and SEO-driven systems**.  
